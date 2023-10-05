@@ -1,0 +1,1 @@
+$$\hat{S}(t_i) = \prod_{j:t_j \leq t_i} \hat{p}_j$$
